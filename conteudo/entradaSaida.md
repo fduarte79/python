@@ -13,3 +13,19 @@ Digite o valor: 5
 >>> print(x)
 5
 ```
+
+# Saída formatada
+```
+>>> linguagem = 'Python'
+>>> print(f'{linguagem} é fácil')
+Python é fácil
+```
+
+# Saída posicional
+```
+>>> linguagem = 'Python'
+>>> dificuldade = 'fácil'
+>>>
+>>> print("{} é {}".format(linguagem, dificuldade))
+Python é fácil
+```
