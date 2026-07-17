@@ -4,7 +4,7 @@ Permite que determinado trecho seja executado (ou não) de acordo com a condiç�
 + `else`: opcional, se a condição de `if` for falsa, a cláusula `else` é executada
 + não há limites para que um `if` dentro de outro `if` (`if` aninhados)
 
-## `if`
+**`if`**
 ```
 >>> x = 3
 >>> if x < 5:
@@ -19,7 +19,7 @@ Permite que determinado trecho seja executado (ou não) de acordo com a condiç�
 >>>
 ```
 
-## `if`/`else`
+**`if`/`else`**
 ```
 >>> if x < 5:
 ...     print(x)
