@@ -7,7 +7,8 @@
 *Variável*: endereço de memória que recebe informação\
 *Operador*: símbolo reservado pelo interpretador para operar
 
-[Operadores](conteudo/operadores.md)
+[Operadores](conteudo/operadores.md)\
+[Tipos de dados](conteudo/tiposDeDados.md)
 
 ## Referências
 + PYTHON SOFTWARE FOUNDATION. Python 3 Documentation. Disponível em: https://docs.python.org/3/. Acesso em: 21 maio 2026.\
