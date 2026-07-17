@@ -41,8 +41,16 @@ True
 ```
 ## Lógico
 ```
->>> True & True   # E lógico
+>>> True & True    # E lógico
 True
 >>> True | False   # OU lógico
 True
+>>> bin(5)         # XOR (eXclusive OR)
+'0b101'            # compara bit a bit,
+>>> bin(2)         # e ambos devem ser
+'0b10'             # diferentes
+>>> 5^2
+7
+>>> bin(7)
+'0b111'
 ```
