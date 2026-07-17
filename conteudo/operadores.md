@@ -58,10 +58,8 @@ True
 >>> # OU lógico
 >>> True | False   
 True
->>> # XOR (eXclusive OR)
->>> # compara bit a bit,
->>> # e ambos devem ser
->>> # diferentes
+>>> # XOR (eXclusive OR) compara bit a bit,
+>>> # ambos devem ser diferentes
 >>> bin(5)         
 '0b101'            
 >>> bin(2)         
@@ -70,8 +68,7 @@ True
 7
 >>> bin(7)
 '0b111'
->>> # ~ NOT (inverte todos
->>> # os bits)
+>>> # ~ NOT (inverte todos os bits)
 >>> bin(5)        
 '0b101'           
 >>> ~5
