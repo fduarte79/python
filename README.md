@@ -13,6 +13,7 @@
 [Operadores](conteudo/operadores.md)\
 [Condicional](conteudo/condicional.md)\
 [Iteradores](conteudo/iteradores.md)\
+[Controle de iteradores](conteudo/controleItedores.md)\
 [Funções](conteudo/funcoes.md)
 
 ## Referências
