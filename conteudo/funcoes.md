@@ -21,3 +21,10 @@ Python
 >>> x, y
 (3, 7)
 ```
+## Funções `lambda`
+Seu uso não é uma boa prática de programação
+```
+>>> soma = lambda x,y:x + y
+>>> soma(3,7)
+10
+```
