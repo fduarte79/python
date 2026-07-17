@@ -22,7 +22,7 @@ Python
 (3, 7)
 ```
 ## Funções `lambda`
-Seu uso não é uma boa prática de programação
+Seu uso não é uma boa prática de programação se usada em excesso, uma vez que dificulta a sua manutenção.
 ```
 >>> soma = lambda x,y: x + y
 >>> soma(3,7)
