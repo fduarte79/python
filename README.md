@@ -6,6 +6,7 @@
 *Instrução*: algoritmo que executa código\
 *Variável*: endereço de memória que recebe informação\
 *Operador*: símbolo reservado pelo interpretador para operar
+*Identação*: outras linguagens de programação utilizam chaves, parênteses ou colchetes para marcar onde inicia e termina trechos do código, Python utiliza espaços (três por padrão).
 
 [Operadores](conteudo/operadores.md)\
 [Tipos de dados](conteudo/tiposDeDados.md)\
