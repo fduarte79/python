@@ -39,6 +39,3 @@
 3
 4
 ```
-`next`: avança para o próximo
-```
-```
