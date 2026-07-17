@@ -38,3 +38,20 @@ Permite que determinado trecho seja executado (ou não) de acordo com a condiç�
 x > 5
 ```
 
+**`if`/`elif`/`else`
+```
+>>> if x == 'a':
+...     'a'
+... elif x == 'e':
+...     'e'
+... elif x == 'i':
+...     'i'
+... elif x == 'o':
+...     'o'
+... elif x == 'u':
+...     'u'
+... else:
+...     0
+...
+0
+```
