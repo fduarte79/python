@@ -25,7 +25,6 @@ Python é fácil
 ```
 >>> linguagem = 'Python'
 >>> dificuldade = 'fácil'
->>>
 >>> print("{} é {}".format(linguagem, dificuldade))
 Python é fácil
 ```
