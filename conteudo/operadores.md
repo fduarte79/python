@@ -52,23 +52,44 @@ False
 
 ## *Bitwise* (operador de bit)
 ```
->>> True & True    # E lógico
+>>> # E lógico
+>>> True & True    
 True
->>> True | False   # OU lógico
+>>> # OU lógico
+>>> True | False   
 True
->>> bin(5)         # XOR (eXclusive OR)
-'0b101'            # compara bit a bit,
->>> bin(2)         # e ambos devem ser
-'0b10'             # diferentes
+>>> # XOR (eXclusive OR)
+>>> # compara bit a bit,
+>>> # e ambos devem ser
+>>> # diferentes
+>>> bin(5)         
+'0b101'            
+>>> bin(2)         
+'0b10'             
 >>> 5^2
 7
 >>> bin(7)
 '0b111'
->>> bin(5)        # ~ NOT 
-'0b101'           # (inverte todos os bits)
+>>> # ~ NOT (inverte todos
+>>> # os bits)
+>>> bin(5)        
+'0b101'           
 >>> ~5
 -6
 >>> bin(-6)
 '-0b110'
-
+>>> # descarta os bits mais a esquerda e completa (2)
+>>> # com zeros a direita do número decimal (1)
+>>> # bits a serem descartados << numero decimal
+>>> # 1 (00000001) << 2 (00000100)
+>>> 1 << 2
+4
+>>> bin(4)
+'0b100'
+>>> # descarta os bits mais a direita e completa (3)
+>>> # com zeros a esquerda do número decimal (12)
+>>> # número decimal >> bits a serem descartados
+>>> # 12 (00001100) >> 3 bits = 1 (0000001)
+>>> 12 >> 3
+1
 ```
