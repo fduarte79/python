@@ -1,6 +1,7 @@
 # Iteradores
 
 ## laço de repetição `for`
+Usado com listas, strings, coleções, etc
 ```
 >>> vogais = ['a', 'e', 'i', 'o', 'u']
 >>> for vogal in vogais:
@@ -22,4 +23,20 @@
 x = 'a', y = 'b', z = 'c'
 x = 'd', y = 'e', z = 'f'
 x = 'g', y = 'h', z = 'i'
+```
+
+## laço `while`
+Usado com números
+```
+>>> x = 0
+>>> while x <= 5:
+...     x += 1
+...     print(x)
+...
+1
+2
+3
+4
+5
+6
 ```
