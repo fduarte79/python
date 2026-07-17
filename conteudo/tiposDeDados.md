@@ -40,7 +40,7 @@
 <class 'list'>
 >>> type(('a', 'e', 'i', 'o', 'u'))   # tupla (lista imutável)
 <class 'tuple'>
->>> intervalo = range(0,3)
+>>> intervalo = range(0,3)            # intervalo
 >>> 1 in intervalo
 True
 >>> type(intervalo)
@@ -51,4 +51,13 @@ True
 >>> python = {'dificuldade': 'fácil'}
 >>> type(python)
 <class 'dict'>
+```
+### Conjuntos (conjunto desordenado e único)
+```
+>>> vogais = {'a', 'o', 'i', 'e', 'u'}
+>>> type(vogais)
+<class 'set'>
+>>> vogais = frozenset({'a', 'o', 'i', 'e', 'u'})   # (imutável)
+>>> type(vogais)
+<class 'frozenset'>
 ```
