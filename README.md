@@ -9,7 +9,8 @@
 
 [Operadores](conteudo/operadores.md)\
 [Tipos de dados](conteudo/tiposDeDados.md)\
-[Funções](conteudo/funcoes.md)
+[Funções](conteudo/funcoes.md)\
+[Condicional](conteudo/condicional.md)
 
 ## Referências
 + PYTHON SOFTWARE FOUNDATION. Python 3 Documentation. Disponível em: https://docs.python.org/3/. Acesso em: 21 maio 2026.\
