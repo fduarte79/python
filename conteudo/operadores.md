@@ -23,3 +23,18 @@
 >>> 22 // 7   # quociente (parte inteira)
 3
 ```
+## Relacionais
+```
+>>> 3 < 4    # menor
+True
+>>> 4 <= 4   # menor ou igual
+True
+>>> 2 >  4   # menor
+False
+>>> 2 >= 4   # menor ou igual
+False
+>>> 0 == 1   # igual
+False
+>>> 0 != 1   # diferente
+True
+```
