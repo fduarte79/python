@@ -11,8 +11,9 @@
 [Entrada e saída](conteudo/entradaSaida.md)\
 [Tipos de dados](conteudo/tiposDeDados.md)\
 [Operadores](conteudo/operadores.md)\
-[Funções](conteudo/funcoes.md)\
-[Condicional](conteudo/condicional.md)
+[Condicional](conteudo/condicional.md)\
+[Iteradores](conteudo/iteradores.md)\
+[Funções](conteudo/funcoes.md)
 
 ## Referências
 + PYTHON SOFTWARE FOUNDATION. Python 3 Documentation. Disponível em: https://docs.python.org/3/. Acesso em: 21 maio 2026.\
