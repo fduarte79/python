@@ -1,5 +1,12 @@
 # Python
 
+## Conceitos
+*Entrada*: recebe os dados (teclado, arquivo, rede)\
+*Saída*: exibe os dados (monitor, papel, audio)\
+*Instrução*: algoritmo que executa código\
+*Variável*: endereço de memória que recebe informação\
+*Operador*: símbolo reservado pelo interpretador para operar
+
 [Operadores](conteudo/operadores.md)
 
 ## Referências
