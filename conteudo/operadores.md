@@ -90,3 +90,17 @@ True
 >>> 12 >> 3
 1
 ```
+## Identidade (não)
+```
+>>> str('A') is str('A')     # verifica se um tipo é igual
+True
+>>> str('A') is not int(1)   # verifica se um tipo é diferente
+True
+```
+## Pertence (não)
+```
+>>> "o" in ("Python")        # operador in verifica se pertence
+True
+>>> "o" not in ("Python")    # operador not in verifica se não pertence
+False
+```
