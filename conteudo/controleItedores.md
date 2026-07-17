@@ -1,50 +1,43 @@
 # Controle de iteradores
 
 ```
->>> x = 0
->>> while x <= 6:
-...     x +=  1
-...     print(x)
+>>> for i in range(1,5):
+...     print(i)
 ...
 1
 2
 3
 4
-5
-6
-7
 ```
 `break`: iterrompe o laço imediatamente
 ```
->>> x = 0
->>> while x <= 6:
-...     if x == 4: break
-...     x += 1
-...     print(x)
+>>> for i in range(1,5):
+...     if i == 3: break
+...     print(i)
 ...
 1
 2
-3
-4
 ```
 `continue`: pula o restante da iteração
 ```
+>>> for i in range(1,5):
+...     if i == 3: continue
+...     print(i)
+...
+1
+2
+4
 ```
 `pass`: não executa nada (usado para implementações em construção)
 ```
->>> x = 0
->>> while x <= 6:
-...     if x == 4: pass
-...     x += 1
-...     print(x)
+>>> for i in range(1,5):
+...     if i == 3: pass
+...     print(i)
 ...
 1
 2
 3
 4
-5
-6
-7
 ```
 `next`: avança para o próximo
 ```
