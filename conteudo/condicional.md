@@ -3,7 +3,9 @@ Permite que determinado trecho seja executado (ou não) de acordo com a condiç�
 + `if`: a cláusula é executado dentro da sentença se for verdadeira
 + `else`: opcional, se a condição de `if` for falsa, a cláusula `else` é executada
 + não há limites para que um `if` dentro de outro `if` (`if` aninhados)
-
++ no caso de existir muitos `if`, um recurso interessane é o `elif`
++ só pode haver um `else` para um `if`
+  
 **`if`**
 ```
 >>> x = 3
@@ -19,6 +21,13 @@ Permite que determinado trecho seja executado (ou não) de acordo com a condiç�
 >>>
 ```
 
+**`if` em linha**
+```
+>>> if x > 5: print(x)
+...
+7
+```
+
 **`if`/`else`**
 ```
 >>> if x < 5:
@@ -28,3 +37,4 @@ Permite que determinado trecho seja executado (ou não) de acordo com a condiç�
 ...
 x > 5
 ```
+
