@@ -8,7 +8,8 @@
 *Operador*: símbolo reservado pelo interpretador para operar
 
 [Operadores](conteudo/operadores.md)\
-[Tipos de dados](conteudo/tiposDeDados.md)
+[Tipos de dados](conteudo/tiposDeDados.md)\
+[Funções](conteudos/funcoes.md)
 
 ## Referências
 + PYTHON SOFTWARE FOUNDATION. Python 3 Documentation. Disponível em: https://docs.python.org/3/. Acesso em: 21 maio 2026.\
