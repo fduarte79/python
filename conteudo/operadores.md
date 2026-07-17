@@ -68,7 +68,7 @@ True
 7
 >>> bin(7)
 '0b111'
->>> # ~ NOT (inverte todos os bits)
+>>> # ~ NEGADO (inverte todos os bits)
 >>> bin(5)        
 '0b101'           
 >>> ~5
