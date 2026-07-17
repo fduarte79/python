@@ -34,8 +34,7 @@ True
 ```
 ## Atribuição
 ```
->>> variavel = 0    # atribuição simples
->>> variavel = 1       
+>>> variavel = 1    # atribuição simples
 >>> variavel += 2   # atribuição com operação  
 >>> variavel
 3
