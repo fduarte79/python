@@ -39,7 +39,18 @@ True
 >>> variavel
 3
 ```
-## Lógico
+
+## Lógicos
+```
+>>> True and True   # E
+True
+>>> True or False   # OU
+True
+>>> not True        # NEGADO
+False
+```
+
+## *Bitwise* (operador de bit)
 ```
 >>> True & True    # E lógico
 True
@@ -53,4 +64,11 @@ True
 7
 >>> bin(7)
 '0b111'
+>>> bin(5)        # ~ NOT 
+'0b101'           # (inverte todos os bits)
+>>> ~5
+-6
+>>> bin(-6)
+'-0b110'
+
 ```
