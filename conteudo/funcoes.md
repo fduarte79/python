@@ -5,3 +5,19 @@ Função pode ser definida com conjunto de instruções que é invocada por um n
 >>> print('Python')
 Python
 ```
++ Para criar uma função, utilize a palavra chave `def`, seguido do nome da função e os parêntes para os argumentos.\
++ A identação é importante para delimitar onde inicia e termina o código da função.\
++ `return` é importante se deseja que a função retorne algum dado, e geralmente é, mas não obrigatório.\
++ Variáveis criadas dentro da função são locais logo, seu conteúdo fica restrito dentro do seu escopo.
+```
+>>> x = 3
+>>> y = 7
+>>> def soma(x,y):
+...     x = 9
+...     return x + y
+...
+>>> soma(x,y)
+16
+>>> x, y
+(3, 7)
+```
