@@ -61,3 +61,11 @@ True
 >>> type(vogais)
 <class 'frozenset'>
 ```
+### Comentários e documentação
+```
+>>> # comentário
+>>> '''Python
+... é
+... legal'''
+'Python\né\nlegal'
+```
