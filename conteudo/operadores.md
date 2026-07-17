@@ -29,12 +29,21 @@
 True
 >>> 4 <= 4   # menor ou igual
 True
->>> 2 >  4   # menor
+>>> 2 >  4   # maior
 False
->>> 2 >= 4   # menor ou igual
+>>> 2 >= 4   # maior ou igual
 False
 >>> 0 == 1   # igual
 False
 >>> 0 != 1   # diferente
 True
+```
+## Atribuição
+```
+>>> variavel = 0    # atribuição simples
+
+>>> variavel = 1    # atribuição com operação     
+>>> variavel += 2   
+>>> variavel
+3
 ```
