@@ -14,7 +14,8 @@
 [Condicional](conteudo/condicional.md)\
 [Iteradores](conteudo/iteradores.md)\
 [Controle de iteradores](conteudo/controleItedores.md)\
-[Funções](conteudo/funcoes.md)
+[Funções](conteudo/funcoes.md)\
+[Strings](conteudo/strings.md)
 
 ## Referências
 + PYTHON SOFTWARE FOUNDATION. Python 3 Documentation. Disponível em: https://docs.python.org/3/. Acesso em: 21 maio 2026.\
