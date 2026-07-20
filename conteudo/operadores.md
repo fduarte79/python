@@ -104,3 +104,14 @@ True
 >>> "o" not in ("Python")    # operador not in verifica se não pertence
 False
 ```
+## Strings
+Alguns operadores também funcionam com strings por exemplo: `+ ` concatena, `*` multiplica, `\` quebra de string
+```
+>>> 3 * "Python - "
+'Python - Python - Python - '
+>>> 'Py' + 'thon'
+'Python'
+>>> 'Py\
+... thon'
+'Python'
+```
