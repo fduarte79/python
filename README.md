@@ -10,6 +10,7 @@
 + *Operador*: símbolo reservado pelo interpretador para operar
 + *Identação*: outras linguagens de programação utilizam chaves, parênteses ou colchetes para marcar onde inicia e termina trechos do código, Python utiliza espaços (três por padrão).
 
+## Introdução
 [Entrada e saída](conteudo/basico/entradaSaida.md)\
 [Tipos de dados](conteudo/basico/tiposDeDados.md)\
 [Operadores](conteudo/basico/operadores.md)\
