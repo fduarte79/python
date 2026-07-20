@@ -10,14 +10,14 @@
 + *Operador*: símbolo reservado pelo interpretador para operar
 + *Identação*: outras linguagens de programação utilizam chaves, parênteses ou colchetes para marcar onde inicia e termina trechos do código, Python utiliza espaços (três por padrão).
 
-[Entrada e saída](conteudo/entradaSaida.md)\
-[Tipos de dados](conteudo/tiposDeDados.md)\
-[Operadores](conteudo/operadores.md)\
-[Condicional](conteudo/condicional.md)\
-[Iteradores](conteudo/iteradores.md)\
-[Controle de iteradores](conteudo/controleItedores.md)\
-[Funções](conteudo/funcoes.md)\
-[Strings](conteudo/strings.md)
+[Entrada e saída](conteudo/basico/entradaSaida.md)\
+[Tipos de dados](conteudo/basico/tiposDeDados.md)\
+[Operadores](conteudo/basico/operadores.md)\
+[Condicional](conteudo/basico/condicional.md)\
+[Iteradores](conteudo/baasico/iteradores.md)\
+[Controle de iteradores](conteudo/basico/controleItedores.md)\
+[Funções](conteudo/basico/funcoes.md)\
+[Strings](conteudo/basico/strings.md)
 
 ## Referências
 + PYTHON SOFTWARE FOUNDATION. Python 3 Documentation. Disponível em: https://docs.python.org/3/. Acesso em: 21 maio 2026.\
