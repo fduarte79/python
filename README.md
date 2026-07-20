@@ -5,6 +5,8 @@
 + *Saída*: exibe os dados (monitor, papel, audio)\
 + *Instrução*: algoritmo que executa código\
 + *Variável*: endereço de memória que recebe informação\
+  + Variável pode receber um dado como uma palavra, um valor lógico, um número.
+  + Uma variável pode ter diversas funções por exemplo: função de contadora (por exemplo: de frequências) ou acumuladora
 + *Operador*: símbolo reservado pelo interpretador para operar\
 + *Identação*: outras linguagens de programação utilizam chaves, parênteses ou colchetes para marcar onde inicia e termina trechos do código, Python utiliza espaços (três por padrão).
 
