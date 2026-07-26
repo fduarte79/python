@@ -20,6 +20,11 @@
 <class 'complex'>
 >>> type(elementos[5])
 <class 'list'>
->>> elementos[5][2]
+>>> elementos[3] = "novo elemento"   # atribuindo novo valor
+>>> elementos[3]
+'novo elemento'
+>>> elementos[5][2]                  # acessando um elemento da lista
 'laranja'
+>>> elementos[2:5]                   # acessando uma faixa
+[0.5, 'novo elemento', (4+5j)]
 ```
