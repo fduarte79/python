@@ -5,8 +5,8 @@
 + Para atribuir um novo valor, basta usar o operador de atribuição e especificar o  índice.
 + É possível acessar os elementos da lista de forma inversa: último (`-1`), penúltimo (`-2`), e assim sucessivamente.
 + É possível acessar diversos elementos de uma só vez, usando o operador de faixa `:`
-+ `+` operador concatena
-+ `*` operador de repetição
++ `+` operador concatena listas
++ `*` operador de repetição 
 ```
 >>> elementos
 ['string', True, 0.5, 5, (4+5j), ['banana', 'maçã', 'laranja']]
