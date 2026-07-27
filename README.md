@@ -19,7 +19,8 @@
 [Controle de iteradores](conteudo/basico/controleItedores.md)\
 [Funções](conteudo/basico/funcoes.md)\
 [Strings](conteudo/basico/strings.md)\
-[Listas](conteudo/basico/listas.md)
+[Listas](conteudo/basico/listas.md)\
+[Dicionários](conteudo/basico/dicionarios.md)
 
 ## Referências
 + PYTHON SOFTWARE FOUNDATION. Python 3 Documentation. Disponível em: https://docs.python.org/3/. Acesso em: 21 maio 2026.
