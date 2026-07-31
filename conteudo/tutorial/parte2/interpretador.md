@@ -25,6 +25,7 @@ Hello World!!!
 # -*- coding: cp1252 -*-
 ```
 + Salve com a extensão .py
++ Para otimização de leitura, o cabeçalho será omitido nos próximos códigos
 
 ## Primeiro programa
 Como primeiro programa: vamos escrever o clássico "Hello World!!!"
@@ -38,7 +39,6 @@ E a sua execução no prompt de comando:
 >python hello.py
 Hello World!!!
 ```
-
 [script hello.py](hello.py)
 
 [Parte 1 - Introdução](../parte1/introducao.md)\
