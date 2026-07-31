@@ -8,6 +8,10 @@
 + Mas não dentro de uma string literal.
 + `#` dentro de uma string literal é apenas uma `#`.
 
+```
+>>> # comentário de linha
+>>>          # comentário de meia linha
+```
 [Parte 2 - Interpretador](../parte2/interpretador.md)\
 [Parte  - ](../parte/.md)\
 [Home](../../../README.md)
