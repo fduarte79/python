@@ -1,9 +1,6 @@
 # Python
-+ Esse repositório é sobre Python, não sobre algoritmos ou lógica de programação;
-+ É um **repositório de estudo** e não um curso, tutorial, página de documentação;
-+ Seu conteúdo é um compilado de diversos, sites, cursos e livros.
-
-[Página de Documentação - O Tutorial do Python](tutorial/tutorial.md)
++ é um repositório com meus **estudos sobre programação em Python**, *não sobre algoritmos ou lógica de programação*;
++ seu conteúdo é um compilado de diversos, sites, cursos e livros.
 
 ## Referências
 + [O tutorial do Python - Introdução](https://docs.python.org/pt-br/3.14/tutorial/index.html)
