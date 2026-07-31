@@ -39,6 +39,8 @@ E a sua execução no prompt de comando:
 Hello World!!!
 ```
 
+O [script](hello.py) do código
+
 [Parte 1 - Introdução](../parte1/introducao.md)\
 [Parte 3 - Colocando a mão na massa](../parte3/iniciando.md)\
 [Home](../../../README.md)
