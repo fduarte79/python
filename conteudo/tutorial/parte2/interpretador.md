@@ -40,6 +40,6 @@ Hello World!!!
 ```
 
 [Parte 1 - Introdução](../parte1/introducao.md)\
-[Parte 3 - Interpretador](../parte3/interpretador.md)\
+[Parte 3 - Interpretador](../parte3/iniciando.md)\
 [Home](../../../README.md)
 
