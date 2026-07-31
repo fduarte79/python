@@ -1,8 +1,6 @@
 # Python
-+ repositório com meus **estudos sobre programação em Python**
++ repositório com meus **estudos** sobre Python
 + *não é sobre algoritmos ou lógica de programação*;
-+ seu conteúdo é um compilado de diversos, sites, cursos e livros
-+ que poderá ser adicionados, alterados com o decorrer dos estudos
 
 [Parte 1 - Inciando](conteudo/parte1/iniciando.md)
 
