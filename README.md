@@ -1,6 +1,5 @@
 # Python
-
-[Tutorial - Introdução](tutorial/tutorial.md)
+[Página de Documentação - O Tutorial do Python](tutorial/tutorial.md)
 
 ## Referências
 + [O tutorial do Python - Introdução](https://docs.python.org/pt-br/3.14/tutorial/index.html)
