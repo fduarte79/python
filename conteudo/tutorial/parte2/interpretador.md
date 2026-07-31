@@ -35,7 +35,7 @@ print("Hello World!!!")
 ```
 E a sua execução no prompt de comando:
 ```
->python hellp.py
+>python hello.py
 Hello World!!!
 ```
 
