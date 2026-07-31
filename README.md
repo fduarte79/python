@@ -1,6 +1,8 @@
 # Python
-+ repositório com meus **estudos** sobre Python
-+ *não é sobre algoritmos ou lógica de programação*;
+
+Sobre esse repositório:
++ repositório com meus **estudos** sobre Python;
++ *não é sobre algoritmos ou lógica de programação*.
 
 [Parte 1 - Inciando](conteudo/parte1/iniciando.md)
 
