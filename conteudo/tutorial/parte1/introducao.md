@@ -9,4 +9,4 @@
 + não há necessidade de declarar variáveis.
 
 [Parte 2 - Interpretador](../parte2/interpretador.md)\
-[Home](../../README.md)
+[Home](../../../README.md)
