@@ -3,5 +3,3 @@
 [Parte 2 - Interpretador](../parte2/interpretador.md)\
 [Parte  - ](../parte/.md)\
 [Home](../../../README.md)
-
-# [Parte  - ](../parte/.md)\
