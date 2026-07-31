@@ -4,7 +4,8 @@ Sobre esse repositório:
 + repositório com **meus estudos sobre Python**;
 + *não é sobre algoritmos ou lógica de programação*.
 
-[Parte 1 - Inciando](conteudo/parte1/iniciando.md)
+[Parte 1 - Inciando](conteudo/parte1/iniciando.md)\
+[Parte 2 - Interpretador](conteudo/parte2/interpretador.md)
 
 ## Referências
 + [O tutorial do Python - Introdução](https://docs.python.org/pt-br/3.14/tutorial/index.html)
