@@ -14,6 +14,22 @@
 ```
 
 ## Números
+
+Basicamente existem três tipo:
++ Inteiros: 4, 5, 7, 20, 90, ...
++ Reais, fracionários ou ponto flutuante: 5.7, 3.8, 9.1
++ Imaginários: 
+
+```
+>>> 4      # inteiros
+4
+>>> 7.9    # reais, fracionários, ponto flutuante
+7.9
+>>> 5+3j   # ponto flutuante
+(5+3j)
+```
+
+## Operadores matemáticos
 ```
 >>> 22 + 7   # soma
 29
@@ -27,7 +43,7 @@
 3.142857142857143
 >>> 22 % 7   # módulo (resto)
 1
->>> 22 // 7  # parte inteira
+>>> 22 // 7  # divisão pelo piso (apenas a parte inteira)
 3
 ```
 [Parte 2 - Interpretador](../parte2/interpretador.md)\
