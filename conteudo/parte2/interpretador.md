@@ -39,5 +39,5 @@ E a sua execução no prompt de comando:
 Hello World!!!
 ```
 
-[Mão na massa](../cap3/iniciando.md)
+[Mão na massa](../cap3/iniciando.md)\
 [Home](../../README.md)
